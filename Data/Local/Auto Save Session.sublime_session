@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/P/var/nodes/playhub"
 	],
 	"last_version": 3126,
 	"last_window_id": 1,
@@ -19,6 +20,15 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/P/var/nodes/playhub/js/regdel.js",
+					"settings":
+					{
+						"buffer_size": 25,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -27,10 +37,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 304.0,
-				"last_filter": "in",
+				"height": 392.0,
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"in",
 						"Package Control: Install Package"
@@ -38,13 +52,9 @@
 					[
 						"pagek",
 						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Install Package Control"
 					]
 				],
-				"width": 432.0
+				"width": 416.0
 			},
 			"console":
 			{
@@ -66,8 +76,14 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/P/var/nodes/playhub",
+				"/P/var/nodes/playhub/js"
+			],
 			"file_history":
 			[
+				"/P/var/nodes/playhub/server.js"
 			],
 			"find":
 			{
@@ -99,11 +115,46 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "P:\\var\\nodes\\playhub"
+				}
+			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/P/var/nodes/playhub/js/regdel.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										25,
+										25
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -143,7 +194,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,613,75,75,731",
+			"position": "0,2,3,-32000,-32000,-1,-1,613,75,75,731",
 			"project": "",
 			"replace":
 			{
