@@ -5,8 +5,17 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
+		"ColorPicker",
 		"Emmet",
 		"JavaScript & NodeJS Snippets",
-		"Package Control"
+		"jQuery",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Nodejs",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
 	]
 }
