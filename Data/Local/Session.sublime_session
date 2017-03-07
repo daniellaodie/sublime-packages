@@ -9,7 +9,7 @@
 		"/P/var/nodes/workspace/hexo"
 	],
 	"last_version": 3126,
-	"last_window_id": 11,
+	"last_window_id": 12,
 	"log_indexing": false,
 	"settings":
 	{
@@ -21,8 +21,36 @@
 				"selected_items":
 				[
 					[
+						"fs",
+						"fs.exists(path, callback);"
+					],
+					[
+						"pross",
+						"process._setupDomainUse();"
+					],
+					[
+						"get",
+						"getElementsByTagName〔function〕"
+					],
+					[
+						"ge",
+						"getElementsByName〔function〕"
+					],
+					[
+						"prin",
+						"printNumberSeq"
+					],
+					[
 						"fun",
 						"function"
+					],
+					[
+						"file",
+						"files"
+					],
+					[
+						"fil",
+						"files"
 					],
 					[
 						"lis",
@@ -69,24 +97,44 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "color",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"color",
-						"Color Picker"
+						"nodejs::",
+						"Nodejs::NPM::Command"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"set syntax: ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set syntax: ",
+						"Set Syntax: HTML (Erlang)"
+					],
+					[
+						"set syntax: java",
+						"Set Syntax: JavaScript"
 					],
 					[
 						"package con",
 						"Package Control: Install Package"
 					],
 					[
-						"md",
-						"Markdown Preview: Preview in Browser"
+						"color",
+						"Color Picker"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"md",
+						"Markdown Preview: Preview in Browser"
 					],
 					[
 						"in",
@@ -121,11 +169,22 @@
 			},
 			"file_history":
 			[
+				"/P/var/nodes/playhub/js/regdel.js",
+				"/P/var/nodes/playhub/js/process.js",
+				"/P/var/nodes/playhub/js/child_process.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Nodejs.sublime-build",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Nodejs.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Installed Packages/Nodejs.sublime-package",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Nodejs/Nodejs.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/P/var/nodes/playhub/js/stream.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/P/var/nodes/playhub/js/copydir.js",
 				"/P/var/alisvn/workspace/huiyou/trunk/assets/readme.txt",
 				"/P/var/alisvn/workspace/huiyou/trunk/php/kohana-v3.3.4/CONTRIBUTING.md",
 				"/P/var/alisvn/workspace/huiyou/trunk/index.html",
-				"/P/var/nodes/playhub/js/regdel.js",
-				"/P/var/nodes/playhub/js/copydir.js",
 				"/P/var/nodes/workspace/webpack-react/webpack/index.html",
 				"/P/var/nodes/workspace/webpack-react/webpack/readme.txt",
 				"/P/var/nodes/workspace/webpack-react/webpack/webpack.config.js",
@@ -154,7 +213,6 @@
 				"/C/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/Markdown.sublime-settings",
 				"/P/var/nodes/playhub/index.html",
 				"/P/var/nodes/playhub/bak.reg",
-				"/P/var/nodes/playhub/js/stream.js",
 				"/P/var/nodes/playhub/js/buffer.js",
 				"/P/var/nodes/playhub/bak1.reg",
 				"/P/var/nodes/playhub/bak2.txt",
@@ -162,14 +220,12 @@
 				"/P/var/nodes/playhub/js/test1.js",
 				"/P/var/nodes/playhub/js/emitter.js",
 				"/P/var/nodes/playhub/js/cluster.js",
-				"/P/var/nodes/playhub/js/child_process.js",
 				"/P/var/nodes/playhub/js/uploadserver.js",
-				"/P/var/nodes/playhub/js/process.js",
 				"/P/var/nodes/playhub/server.js"
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 34.0
 			},
 			"find_in_files":
 			{
@@ -215,11 +271,15 @@
 				"height": 31.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 268.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "",
+			"pinned_build_system": "Packages/User/Nodejs.sublime-build",
 			"replace":
 			{
 				"height": 42.0
@@ -355,7 +415,7 @@
 					"file": "/P/var/nodes/playhub/js/copydir.js",
 					"settings":
 					{
-						"buffer_size": 466,
+						"buffer_size": 755,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -379,16 +439,20 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "",
+				"last_filter": "in",
 				"selected_items":
 				[
 					[
-						"nodejs::",
-						"Nodejs::NPM::Command"
+						"in",
+						"Package Control: Install Package"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"nodejs::",
+						"Nodejs::NPM::Command"
 					],
 					[
 						"pa",
@@ -417,10 +481,6 @@
 					[
 						"md",
 						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
 					],
 					[
 						"pagek",
@@ -457,6 +517,7 @@
 			],
 			"file_history":
 			[
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 				"/P/var/nodes/playhub/js/regdel.js",
 				"/P/var/nodes/playhub/js/process.js",
 				"/P/var/nodes/playhub/js/child_process.js",
@@ -513,7 +574,7 @@
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 34.0
 			},
 			"find_in_files":
 			{
@@ -568,15 +629,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 466,
+								"buffer_size": 755,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										278,
-										278
+										55,
+										55
 									]
 								],
 								"settings":
