@@ -575,8 +575,8 @@
 								"selection":
 								[
 									[
-										319,
-										319
+										278,
+										278
 									]
 								],
 								"settings":
@@ -665,7 +665,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/User/Nodejs.sublime-build",
-			"position": "0,2,3,-32000,-32000,-1,-1,588,50,50,706",
+			"position": "0,2,3,-1,-1,-1,-1,588,50,50,706",
 			"project": "",
 			"replace":
 			{
