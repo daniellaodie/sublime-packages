@@ -21,4 +21,9 @@ E585BBA1 2538C270 E2E857C2 194283CA
 7234FF9E D0392F93 1D16E021 F1914917
 63909E12 203C0169 3F08FFC8 86D06EA8
 73DDAEF0 AC559F30 A6A67947 B60104C6
-```
+```   
+ # 迁移 package, 备份到github
+ ```
+ 插件默认安装的位置是AppData的目录 【C:\Users\用户名\AppData\Roaming\Sublime Text 3\Packages】
+ 关闭Sublime，找到它的安装路径，新建一个Data的文件夹，把C盘目录下的Packages文件夹删除掉
+ ```
