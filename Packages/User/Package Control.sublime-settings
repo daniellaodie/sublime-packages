@@ -17,6 +17,9 @@
 		"Package Control",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-jshint"
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint"
 	]
 }
