@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"3024 Color Scheme",
 		"All Autocomplete",
+		"Babel",
 		"ColorPicker",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
@@ -20,6 +22,7 @@
 		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
-		"SublimeLinter-jsxhint"
+		"SublimeLinter-jsxhint",
+		"TypeScript"
 	]
 }

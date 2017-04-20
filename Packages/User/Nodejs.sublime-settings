@@ -3,9 +3,9 @@
   "save_first": true,
   // if present, use this command instead of plain "node"
   // e.g. "/usr/bin/node" or "C:\bin\node.exe"
-  "node_command": "P:\\usr\\nodejs4\\node.exe",
+  "node_command": "P:\\usr\\nodejs6\\node.exe",
   // Same for NPM command
-  "npm_command": "P:\\usr\\nodejs4\\node.cmd",
+  "npm_command": "P:\\usr\\nodejs6\\node.cmd",
   // as 'NODE_PATH' environment variable for node runtime
   "node_path": false,
 
