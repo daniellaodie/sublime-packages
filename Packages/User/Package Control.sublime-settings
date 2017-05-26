@@ -17,12 +17,15 @@
 		"MarkdownEditing",
 		"Nodejs",
 		"Package Control",
+		"Sass",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-jsxhint",
+		"Syntax Highlighting for Sass",
 		"TypeScript"
 	]
 }

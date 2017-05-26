@@ -24,35 +24,6 @@
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme_excludes": [],
-        "jshint_options": {
-            "browser": true,
-            "curly": true,
-            "devel": true,
-            "eqeqeq": true,
-            "evil": true,
-            "forin": true,
-            "globals": {
-                "$": true,
-                "console": true,
-                "document": true,
-                "global": true,
-                "grunt": true,
-                "jQuery": true,
-                "module": true,
-                "setInterval": true,
-                "setTimeout": true,
-                "window": true
-            },
-            "jquery": true,
-            "latedef": true,
-            "noarg": true,
-            "noempty": true,
-            "quotmark": "single",
-            "strict": false,
-            "undef": true,
-            "unused": "vars",
-            "wsh": true
-        },
         "lint_mode": "background",
         "linters": {
             "csslint": {
@@ -63,17 +34,12 @@
                 "ignore": "",
                 "warnings": ""
             },
+            "eslint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "htmlhint": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
-            "jshint": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
-            "jsxhint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
@@ -98,8 +64,8 @@
         "show_marks_in_minimap": true,
         "sublimelinter": "save-only",
         "sublimelinter_executable_map": {
-            "css": "D:/eray/usr/nodejs4/node.exe",
-            "javascript": "D:/eray/usr/nodejs4/node.exe"
+            "css": "D:/eray/usr/nodejs6/node.exe",
+            "javascript": "D:/eray/usr/nodejs6/node.exe"
         },
         "sublimelinter_gutter_marks": true,
         "sublimelinter_popup_errors_on_save": true,
