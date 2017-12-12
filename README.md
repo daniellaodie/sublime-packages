@@ -32,3 +32,19 @@ E585BBA1 2538C270 E2E857C2 194283CA
  ```
  print('\n' * 50)
  ```
+# 插件
+* htmlhint
+```
+SublimeLinter-contrib-htmlhint
+npm install -g htmlhint
+```
+* csslint
+```
+SublimeLinter-csslint
+npm install -g csslint
+```
+* jshint
+```
+SublimeLinter-contrib-jshint
+npm install jshint -g
+```
