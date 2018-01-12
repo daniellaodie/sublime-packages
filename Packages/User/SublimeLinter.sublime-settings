@@ -34,12 +34,12 @@
                 "ignore": "",
                 "warnings": ""
             },
-            "eslint": {
+            "htmlhint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
             },
-            "htmlhint": {
+            "jsxhint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
