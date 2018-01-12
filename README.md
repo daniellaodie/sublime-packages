@@ -28,3 +28,23 @@ E585BBA1 2538C270 E2E857C2 194283CA
  关闭Sublime，找到它的安装路径，新建一个Data的文件夹，把C盘目录下的Packages文件夹删除掉
  再重新打开Sublime ，References-》 Browser Packages 就发现打开的文件夹就是我们新建的Data文件下的Packages
  ```
+ # 清空sublime console
+ ```
+ print('\n' * 50)
+ ```
+# 插件
+* htmlhint
+```
+SublimeLinter-contrib-htmlhint
+npm install -g htmlhint
+```
+* csslint
+```
+SublimeLinter-csslint
+npm install -g csslint
+```
+* jshint
+```
+SublimeLinter-contrib-jshint
+npm install jshint -g
+```
