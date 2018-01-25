@@ -22,7 +22,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-csslint",
-		"SublimeLinter-jshint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-jsxhint",
 		"Syntax Highlighting for Sass",
 		"TypeScript"
