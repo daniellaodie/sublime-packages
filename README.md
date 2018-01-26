@@ -58,7 +58,7 @@ npm install -g csslint
     "browser": true
   },
   "rules": {
-    "quotes": [
+    "quotes": [//这个规则可以不使用，很多人单双引号都使用，新的项目可以约定好再使用
       2,
       "single"
     ]
