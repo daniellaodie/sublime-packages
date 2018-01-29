@@ -40,11 +40,13 @@ E585BBA1 2538C270 E2E857C2 194283CA
 ```
 SublimeLinter-contrib-htmlhint
 npm install -g htmlhint
+rules 规则使用 .htmlhintrc
 ```
 ### csslint
 ```
 SublimeLinter-csslint
 npm install -g csslint
+使用 sublime-setting 中配置csslint
 ```
 ### eshint
 * SublimeLinter-eslint

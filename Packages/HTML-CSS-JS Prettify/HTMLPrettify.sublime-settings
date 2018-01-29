@@ -4,7 +4,7 @@
     // http://nodejs.org/#download
     "node_path":
     {
-        "windows": "C:/Users/gfm/AppData/Local/nvs/taobao/6.9.2/x64/node.exe",
+        "windows": "C:\\Users\\Lenovo\\AppData\\Local\\nvs\\taobao\\8.9.4\\x64\\node.exe",
         "linux": "/usr/bin/nodejs",
         "osx": "/usr/local/bin/node"
     },
