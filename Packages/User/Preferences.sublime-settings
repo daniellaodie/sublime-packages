@@ -1,7 +1,8 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Espresso Libre (SL).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Espresso Libre.tmTheme",
 	"font_size": 10,
 	"ignored_packages":
 	[
-	]
+	],
+	"show_encoding": true
 }

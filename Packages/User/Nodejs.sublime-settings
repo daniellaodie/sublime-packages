@@ -3,7 +3,7 @@
   "save_first": true,
   // if present, use this command instead of plain "node"
   // e.g. "/usr/bin/node" or "C:\bin\node.exe"
-  "node_command": "C:\\Users\\Lenovo\\AppData\\Local\\nvs\\taobao\\8.9.4\\x64",
+  "node_command": "C:/Users/Lenovo/AppData/Local/nvs/taobao/8.9.4/x64/node.exe",
   // Same for NPM command
   "npm_command": "C:\\Users\\Lenovo\\AppData\\Local\\nvs\\taobao\\8.9.4\\x64",
   // as 'NODE_PATH' environment variable for node runtime
